@@ -1,0 +1,10 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "20011123",
+    "database": "api-ts",
+    "synchronize": true,
+    "entities": ["./**/models/*.ts"]
+}
